@@ -176,7 +176,7 @@
           <mxGeometry x="9" y="-149" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-16" value="&lt;b&gt;Context: &lt;/b&gt;JSON content of business from Google&lt;div&gt;&lt;b&gt;Cot answer&lt;/b&gt;: To rate the overall quality of service provided by Majestic Security based on user reviews, I can analyze the average rating (4.3) and the number of reviews (48). This suggests that a significant portion of customers have had positive experiences with the company.\n\n&lt;b&gt;##begin_quote##&lt;/b&gt;The high average rating indicates a strong level of satisfaction among users.&lt;b&gt;##end_quote##&lt;/b&gt;Taking this into account, I would rate the overall quality of service provided by Majestic Security as follows:&lt;div&gt;&lt;b&gt;&amp;lt;ANSWER&amp;gt;&lt;/b&gt;: Excellent&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="558.56" y="-262" width="323.44" height="259.1" as="geometry" />
+          <mxGeometry x="558.56" y="-262" width="323.44" height="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
