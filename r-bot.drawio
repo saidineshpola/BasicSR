@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="kaDvxghzX0mULwTv-LZ7">
-    <mxGraphModel dx="2107" dy="1526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2567" dy="1552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/question-128.png" vertex="1" parent="1">
           <mxGeometry x="973.5" y="-262" width="52" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-7" value="Fintuned LLM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-7" value="Fintuned Local LLM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-288" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-8" value="Fintuned LLM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-14" value="CLIP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Computer_Vision.svg;" vertex="1" parent="1">
           <mxGeometry x="9" y="-149" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-16" value="&lt;b&gt;Context: &lt;/b&gt;JSON content of business from Google&lt;div&gt;&lt;b&gt;Cot answer&lt;/b&gt;: To rate the overall quality of service provided by Majestic Security based on user reviews, I can analyze the average rating (4.3) and the number of reviews (48). This suggests that a significant portion of customers have had positive experiences with the company.\n\n&lt;b&gt;##begin_quote##&lt;/b&gt;The high average rating indicates a strong level of satisfaction among users.&lt;b&gt;##end_quote##&lt;/b&gt;Taking this into account, I would rate the overall quality of service provided by Majestic Security as follows:&lt;div&gt;&lt;b&gt;&amp;lt;ANSWER&amp;gt;&lt;/b&gt;: Excellent&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-16" value="&lt;b&gt;Context: &lt;/b&gt;JSON content of business data from Google including 3 distractors.&amp;nbsp;&lt;div&gt;&lt;b&gt;Cot answer&lt;/b&gt;: To rate the overall quality of service provided by Majestic Security based on user reviews, I can analyze the average rating (4.3) and the number of reviews (48). This suggests that a significant portion of customers have had positive experiences with the company.\n\n&lt;b&gt;##begin_quote##&lt;/b&gt;The high average rating indicates a strong level of satisfaction among users.&lt;b&gt;##end_quote##&lt;/b&gt;Taking this into account, I would rate the overall quality of service provided by Majestic Security as follows:&lt;div&gt;&lt;b&gt;&amp;lt;ANSWER&amp;gt;&lt;/b&gt;: Excellent&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="558.56" y="-262" width="323.44" height="224" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;Enhancing Business Intelligence: beyond google maps&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
