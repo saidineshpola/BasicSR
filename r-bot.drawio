@@ -98,7 +98,7 @@
           <mxGeometry x="105" y="-10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="558.56" y="-403" width="340" height="130" as="geometry" />
+          <mxGeometry x="545" y="-403" width="354" height="147" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="566.2199999999999" y="-393" width="30" height="30" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="762.4399999999999" y="-343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" parent="1" vertex="1">
-          <mxGeometry x="828.56" y="-339" width="60" height="57" as="geometry" />
+          <mxGeometry x="828.56" y="-339" width="53.68" height="51" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document_blank;" parent="1" vertex="1">
           <mxGeometry x="666.56" y="-304" width="20" height="27" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="703.56" y="-297" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-33" value="Train RAFT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="788.56" y="-393" width="90" height="40" as="geometry" />
+          <mxGeometry x="798.56" y="-393" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-1" value="&amp;nbsp;Based on the provided user reviews, I would rate the overall quality of service provided by &lt;b&gt;Majestic Security as 4.3 out of 5 stars&lt;/b&gt;. This rating suggests that the majority of custome rs are satisfied with the service, but there may be some minor issues or areas for improvement. The high rating indicates that Majestic Security is doing a good job in terms of providing relia ble and effective security services. However, it&#39;s essential to note that chat individual experiences may vary, and some customers may have had different experiences. To get a more comprehensive un derstanding, it would be helpful to read the actual user reviews to identify common themes and areas of improvement." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1053" y="-171" width="500" height="122" as="geometry" />
@@ -180,6 +180,15 @@
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;Enhancing Business Intelligence: beyond google maps&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-415" y="-497" width="646" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Serverless_Search.svg;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="-248" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-20" value="MI210" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,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;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="612" y="-396" width="29.22" height="29.22" as="geometry" />
+        </mxCell>
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-24" value="Synthetic Dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="557.78" y="-50" width="145.78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
