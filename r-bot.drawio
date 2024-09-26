@@ -169,7 +169,7 @@
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-8" value="Fintuned LLM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="578" y="-271.5" width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-9" value="llama3-instruct" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="_9NyEC3-VUTEY0KYw4lJ-9" value="Llama3-instruct" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="581" y="-386" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
