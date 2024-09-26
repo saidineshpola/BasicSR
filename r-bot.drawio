@@ -98,58 +98,58 @@
           <mxGeometry x="105" y="-10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="568" y="-414" width="340" height="130" as="geometry" />
+          <mxGeometry x="558.56" y="-403" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="575.66" y="-404" width="30" height="30" as="geometry" />
+          <mxGeometry x="566.2199999999999" y="-393" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document_blank;" parent="1" vertex="1">
-          <mxGeometry x="588" y="-314" width="20" height="27" as="geometry" />
+          <mxGeometry x="578.56" y="-303" width="20" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document_blank;" parent="1" vertex="1">
-          <mxGeometry x="638" y="-315" width="20" height="27" as="geometry" />
+          <mxGeometry x="628.56" y="-304" width="20" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" parent="1" vertex="1">
-          <mxGeometry x="741.88" y="-317.29999999999995" width="30" height="31.6" as="geometry" />
+          <mxGeometry x="732.4399999999999" y="-306.29999999999995" width="30" height="31.6" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-18" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwLjAwMTA0NTIyNzA1MDc4IiBoZWlnaHQ9IjIwLjAwMTA0NTIyNzA1MDc4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCAyMC4wMDEwNDUyMjcwNTA3OCAyMC4wMDEwNDUyMjcwNTA3OCI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojNDI4NWY0O30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00LjczIDguODN2Mi42M2E0LjkxIDQuOTEgMCAwIDAgMS43MSAxLjc0VjguODN6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTcuODkgNi40MXY3LjUzQTcuNjIgNy42MiAwIDAgMCA5IDE0YTggOCAwIDAgMCAxIDBWNi40MXoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTEuNjQgOS44NnYzLjI5YTUgNSAwIDAgMCAxLjctMS44MlY5Ljg2eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0xNS43NCAxNC4zMmwtMS40MiAxLjQyYS40Mi40MiAwIDAgMCAwIC42bDMuNTQgMy41NGEuNDIuNDIgMCAwIDAgLjU5IDBsMS40My0xLjQzYS40Mi40MiAwIDAgMCAwLS41OWwtMy41NC0zLjU0YS40Mi40MiAwIDAgMC0uNiAwIi8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTkgMGE5IDkgMCAxIDAgMCAxOEE5IDkgMCAxIDAgOSAwbTAgMTUuNjlhNi42OCA2LjY4IDAgMCAxIC4wMDctMTMuMzYgNi42OCA2LjY4IDAgMCAxIDQuNzI3IDExLjQwM0E2LjY4IDYuNjggMCAwIDEgOSAxNS42OSIvPiYjeGE7PC9zdmc+;" parent="1" vertex="1">
-          <mxGeometry x="786.88" y="-314" width="30" height="30" as="geometry" />
+          <mxGeometry x="777.4399999999999" y="-303" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-20" value="Tacobell" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="568" y="-354" width="60" height="30" as="geometry" />
+          <mxGeometry x="558.56" y="-343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-21" value="KFC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="718" y="-354" width="60" height="30" as="geometry" />
+          <mxGeometry x="708.56" y="-343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-22" value="Subway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="616" y="-354" width="60" height="30" as="geometry" />
+          <mxGeometry x="606.56" y="-343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-23" value="Domino&#39;s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="668" y="-354" width="60" height="30" as="geometry" />
+          <mxGeometry x="658.56" y="-337" width="60" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-25" value="KFC opening time?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="771.88" y="-354" width="60" height="30" as="geometry" />
+          <mxGeometry x="762.4399999999999" y="-343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" parent="1" vertex="1">
-          <mxGeometry x="838" y="-350" width="60" height="57" as="geometry" />
+          <mxGeometry x="828.56" y="-339" width="60" height="57" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document_blank;" parent="1" vertex="1">
-          <mxGeometry x="676" y="-315" width="20" height="27" as="geometry" />
+          <mxGeometry x="666.56" y="-304" width="20" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" parent="1" vertex="1">
-          <mxGeometry x="641" y="-305" width="17" height="17" as="geometry" />
+          <mxGeometry x="631.56" y="-294" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" parent="1" vertex="1">
-          <mxGeometry x="677.5" y="-305" width="17" height="17" as="geometry" />
+          <mxGeometry x="668.06" y="-294" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" parent="1" vertex="1">
-          <mxGeometry x="589.5" y="-304" width="17" height="17" as="geometry" />
+          <mxGeometry x="580.06" y="-293" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="713" y="-308" width="15" height="15" as="geometry" />
+          <mxGeometry x="703.56" y="-297" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="5Ty_rDfWxCvQlMKUGbTs-33" value="Train RAFT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="798" y="-404" width="90" height="40" as="geometry" />
+          <mxGeometry x="788.56" y="-393" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-1" value="&amp;nbsp;Based on the provided user reviews, I would rate the overall quality of service provided by &lt;b&gt;Majestic Security as 4.3 out of 5 stars&lt;/b&gt;. This rating suggests that the majority of custome rs are satisfied with the service, but there may be some minor issues or areas for improvement. The high rating indicates that Majestic Security is doing a good job in terms of providing relia ble and effective security services. However, it&#39;s essential to note that chat individual experiences may vary, and some customers may have had different experiences. To get a more comprehensive un derstanding, it would be helpful to read the actual user reviews to identify common themes and areas of improvement." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1053" y="-171" width="500" height="122" as="geometry" />
@@ -158,10 +158,10 @@
           <mxGeometry x="1055" y="-33" width="494" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-5" value="How would you rate the overall quality of service provided by Majestic Security based on user reviews?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="-326" width="258" height="60" as="geometry" />
+          <mxGeometry x="1053" y="-266" width="258" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/question-128.png" vertex="1" parent="1">
-          <mxGeometry x="1075" y="-371" width="52" height="52" as="geometry" />
+          <mxGeometry x="973.5" y="-262" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_9NyEC3-VUTEY0KYw4lJ-7" value="Fintuned LLM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-288" width="72" height="72" as="geometry" />
